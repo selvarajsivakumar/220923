@@ -3,4 +3,9 @@ good morning
 three
 four
 five
+<<<<<<< HEAD
 6
+||||||| a38a73e
+=======
+six
+>>>>>>> dev
